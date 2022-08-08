@@ -10,4 +10,8 @@ $ git branch -r                         |       digunakan untuk cek ada branch a
 $ git checkout nama-branchnya           |       digunakan untuk berpindah branch / seperti ganti akun
 $ git checkout -b nama-branchnya        |       digunakan untuk membuat branch baru
 $ git add .                             |       digunakan untuk menambah sebuah file 
+<<<<<<< HEAD
 $ git commit -m "text commitnya bebas"  |       digunakan untuk melakukan commit setelah git add . 
+
+enid
+
