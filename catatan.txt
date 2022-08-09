@@ -13,5 +13,11 @@ $ git add .                             |       digunakan untuk menambah sebuah 
 <<<<<<< HEAD
 $ git commit -m "text commitnya bebas"  |       digunakan untuk melakukan commit setelah git add . 
 
+wad
+=======
+<<<<<<< HEAD
+$ git commit -m "text commitnya bebas"  |       digunakan untuk melakukan commit setelah git add . 
+
 enid
 
+>>>>>>> 51335c0429378937adedffea0bb3916756f6c09d
